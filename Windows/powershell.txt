@@ -1,0 +1,7 @@
+update-help -verbose -force -erroraction SilentlyContinue
+
+dir hklm:/system
+
+[alles anzeigen lassen außer sicherheitseinstellungen]
+
+dir env:
